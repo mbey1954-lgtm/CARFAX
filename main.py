@@ -16,7 +16,7 @@ from telegram.ext import (
 from flask import Flask
 from threading import Thread
 
-TOKEN = "8426678402:AAFZcVu7pJvLSQsWGXXwFpHmfu3tbhUqu80"
+TOKEN = "8500441874:AAGvjXGC0zqH6si8et1yBYkb_PV8mHmmnok"
 ADMIN_ID = 8444268448
 
 UPLOAD_DIR = "gelen_dosyalar"
